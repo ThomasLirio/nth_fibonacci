@@ -1,6 +1,6 @@
 
 use std::io;
-const MAX: usize = 187; // over this valur Fibonacci value is above u128 capacity --- TO DO: work with big big numbers
+const MAX: usize = 187; // over this value Fibonacci number is above u128 capacity --- TO DO: work with big big numbers
 
 
 fn main() {
